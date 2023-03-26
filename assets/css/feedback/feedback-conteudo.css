@@ -1,0 +1,4 @@
+.feedback__conteudo {
+    grid-column: 2 / -1;
+    align-self: center;
+}

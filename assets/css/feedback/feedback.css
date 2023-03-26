@@ -1,0 +1,9 @@
+.feedback {
+    background-color: var(--verde);
+    border-radius: 15px;
+    color: var(--branco);
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 1.5em;
+    margin-bottom: 6rem;
+}

@@ -1,0 +1,22 @@
+.nav__link {
+    color: var(--preto);
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+    position: relative;
+}
+
+.nav__link:hover {
+    color: var(--cor-hover);
+}
+
+.nav__link:hover:before {
+    background-color: var(--cor-hover);
+    bottom: -3px;
+    content: '';
+    height: 2px;
+    position: absolute;
+    width: 100%;
+}

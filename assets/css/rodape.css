@@ -1,0 +1,5 @@
+.rodape {
+    text-align: center;
+    border-bottom: 8px solid var(--verde);
+    padding-bottom: 4rem;
+}

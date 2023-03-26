@@ -1,0 +1,15 @@
+.chamada__imagem {
+    width: 440px;
+    height: 440px;
+    background: url(../../img/hero.jpg) no-repeat center / cover;
+    justify-self: end;
+    border-radius: 15px;
+}
+
+/* .chamada__imagem--mobile {
+
+}
+
+.chamada__imagem--desktop {
+
+} */

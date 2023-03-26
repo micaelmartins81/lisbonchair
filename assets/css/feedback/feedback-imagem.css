@@ -1,0 +1,12 @@
+.feedback__imagem {
+    width: 250px;
+    height: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.feedback__imagem--mary-sarah {
+    background-image: url(../../img/customers.jpg);
+}
